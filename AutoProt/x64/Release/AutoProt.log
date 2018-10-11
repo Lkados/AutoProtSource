@@ -1,0 +1,22 @@
+﻿  AutoProt.cpp
+c:\ark-server-api-master\version\core\public\api\ue\containers\algo\impl\binaryheap.h(117): warning C4244: "Argument": Konvertierung von "SIZE_T" in "int32", möglicher Datenverlust
+c:\users\adriangaming\source\repos\autoprot\autoprot\autoprot.cpp(106): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+c:\users\adriangaming\source\repos\autoprot\autoprot\autoprot.cpp(115): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\adriangaming\source\repos\autoprot\autoprot\autoprot.cpp(136): warning C4244: "=": Konvertierung von "__int64" in "int", möglicher Datenverlust
+c:\users\adriangaming\source\repos\autoprot\autoprot\autoprot.cpp(154): warning C4244: "=": Konvertierung von "__int64" in "int", möglicher Datenverlust
+c:\users\adriangaming\source\repos\autoprot\autoprot\autoprot.cpp(168): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+c:\users\adriangaming\source\repos\autoprot\autoprot\autoprot.cpp(172): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+c:\users\adriangaming\source\repos\autoprot\autoprot\autoprot.cpp(196): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+c:\users\adriangaming\source\repos\autoprot\autoprot\autoprot.cpp(201): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\adriangaming\source\repos\autoprot\autoprot\autoprot.cpp(210): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\adriangaming\source\repos\autoprot\autoprot\autoprot.cpp(231): warning C4244: "=": Konvertierung von "__int64" in "int", möglicher Datenverlust
+c:\users\adriangaming\source\repos\autoprot\autoprot\autoprot.cpp(249): warning C4244: "=": Konvertierung von "__int64" in "int", möglicher Datenverlust
+c:\users\adriangaming\source\repos\autoprot\autoprot\autoprot.cpp(263): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\adriangaming\source\repos\autoprot\autoprot\autoprot.cpp(297): warning C4244: "Initialisierung": Konvertierung von "__int64" in "int", möglicher Datenverlust
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(C:\Users\AdrianGaming\source\repos\AutoProt\x64\Release\AutoProt.dll) entspricht nicht dem OutputFile-Eigenschaftswert (C:\Users\AdrianGaming\Desktop\Ark_Server\steam\servers\ShooterGame\Binaries\Win64\ArkApi\Plugins\AutoProt\AutoProt.dll) von Linker. Das Projekt wird daher möglicherweise nicht ordnungsgemäß erstellt. Damit dieses Problem behoben werden kann, müssen die Eigenschaftswerte für $(OutDir), $(TargetName) und $(TargetExt) dem in %(Link.OutputFile) angegebenen Wert entsprechen.
+  Code wird generiert.
+  134 of 4874 functions ( 2.7%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    118 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  AutoProt.vcxproj -> C:\Users\AdrianGaming\source\repos\AutoProt\x64\Release\AutoProt.dll
